@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @THouwe
 - 👀 I’m interested in trading bots and cryptocurrencies
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on crypto trading bots
 - 📫 Reach me at thomas.houweling@gmail.com
 

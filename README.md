@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @THouwe
-- 👀 I’m interested in trading bots and cryptocurrencies
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on crypto trading bots
+- 👀 I’m interested in building web apps and data science
+- 🌱 I’m currently learning Vue
+- 💞️ I’m looking to collaborate on data pipelines and data visualization tools
 - 📫 Reach me at thomas.houweling@gmail.com
 
 <!---

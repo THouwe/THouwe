@@ -109,6 +109,30 @@ https://github.com/THouwe/ichimoku-scanner
 
 ---
 
+### Dashboard Automation
+
+Automated ETL pipeline that reconciles inconsistent Excel sources into a Looker Studio-ready dataset, with LLM-assisted schema mapping.
+
+https://github.com/THouwe/dashboard-automation
+
+---
+
+### Customer Segmentation
+
+Three-phase segmentation: cluster demographics and usage behaviour independently, then crosswalk the two to test whether they agree.
+
+https://github.com/THouwe/customer-segmentation
+
+---
+
+### Recruitment Analysis
+
+Two-stage classifier (keyword rules, LLM fallback) that scrapes recruitment-agency sites and flags whether they offer temp staffing.
+
+https://github.com/THouwe/recruitment-analysis
+
+---
+
 ### Monte Carlo Poker
 
 Simulation and probability estimation using Monte Carlo methods.

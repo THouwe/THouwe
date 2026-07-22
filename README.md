@@ -45,9 +45,7 @@ Unlike traditional clock-time analysis, Intrinsic Time samples markets whenever 
 
 **Highlights**
 
-- Directional Change events
-- Overshoot detection
-- Event-based sampling
+- Directional-change/OverShoot paradigm implementation
 - Research-friendly API
 - Production-ready implementation
 
@@ -61,25 +59,29 @@ A live intrinsic-time market intelligence platform.
 
 Instead of relying on conventional indicators, Bitcoin Oracle studies market structure through Directional Change events and multiple intrinsic scales.
 
-Features include
+**Highlights**
 
-- trend diagnostics
-- support & resistance
-- market regime detection
-- quantitative narratives
 - real-time analysis
+- multi-scale signal detection
+- quantitative narratives
 
 ➡️ https://bitcoinoracle.netlify.app/
 
 ---
 
-## Chronex Signal
+## Chronex
 
 An experimental quantitative trading dashboard built around Intrinsic Time.
 
 Chronex explores new ways of monitoring market dynamics through event-driven analysis rather than fixed-time candlesticks.
 
-➡️ https://chronex-signal.netlify.app/
+**Highlights**
+
+- Live- & back-testing platform
+- Telegram notifications
+- API
+
+➡️ https://chronex-signals.netlify.app/
 
 ---
 

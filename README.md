@@ -56,7 +56,7 @@ Unlike traditional clock-time analysis, Intrinsic Time samples markets whenever 
 
 ## Bitcoin Oracle
 
-A live intrinsic-time market intelligence platform.
+> A live intrinsic-time market intelligence platform.
 
 Instead of relying on conventional indicators, Bitcoin Oracle studies market structure through Directional Change events and multiple intrinsic scales.
 
@@ -72,7 +72,7 @@ Instead of relying on conventional indicators, Bitcoin Oracle studies market str
 
 ## Chronex
 
-An experimental quantitative trading dashboard built around Intrinsic Time.
+> An experimental quantitative trading dashboard built around Intrinsic Time.
 
 Chronex explores new ways of monitoring market dynamics through event-driven analysis rather than fixed-time candlesticks.
 
@@ -88,7 +88,7 @@ Chronex explores new ways of monitoring market dynamics through event-driven ana
 
 ## crypto-intel
 
-A RAG system to explain crypto price moves.
+> A RAG system to explain crypto price moves.
 
 Instead of relying on conventional indicators, Bitcoin Oracle studies market structure through Directional Change events and multiple intrinsic scales.
 
@@ -103,24 +103,9 @@ Instead of relying on conventional indicators, Bitcoin Oracle studies market str
 
 ---
 
-## crypto-intel
+## olist
 
-A RAG system to explain crypto price moves.
-
-Instead of relying on conventional indicators, Bitcoin Oracle studies market structure through Directional Change events and multiple intrinsic scales.
-
-**Highlights**
-
-- Confirming the move against real price data
-- Grounds answer in time-windowed evidence from crypto news, exchange notices, and US regulator filings
-- Supports multiple LLMs
-
-➡️ website: https://whathappenedcrypto.netlify.app/
-➡️ repo: https://github.com/THouwe/crypto-intel/
-
----
-
-## olist — "Marketplace Health Analysis"
+> A marketplace health analysis.
 
 An end-to-end analyst workflow that turns ~100k orders from the public Olist Brazilian e-commerce export into a business diagnosis across three layers. 
 

@@ -29,7 +29,7 @@ Over the past few years I've built
 - real-time signal platforms
 - full-stack analytical applications
 
-using primarily **Python**, **SQL**, and **JavaScript**.
+using primarily **Python**, **R**, **SQL**, and **JavaScript**.
 
 ---
 
@@ -49,7 +49,8 @@ Unlike traditional clock-time analysis, Intrinsic Time samples markets whenever 
 - Research-friendly API
 - Production-ready implementation
 
-➡️ https://github.com/THouwe/IntrinsicTime
+➡️ pypi: https://pypi.org/project/IntrinsicTime/
+➡️ repo: https://github.com/THouwe/IntrinsicTime
 
 ---
 
@@ -65,7 +66,7 @@ Instead of relying on conventional indicators, Bitcoin Oracle studies market str
 - multi-scale signal detection
 - quantitative narratives
 
-➡️ https://bitcoinoracle.netlify.app/
+➡️ website: https://bitcoinoracle.netlify.app/
 
 ---
 
@@ -81,7 +82,7 @@ Chronex explores new ways of monitoring market dynamics through event-driven ana
 - Telegram notifications
 - API
 
-➡️ https://chronex-signals.netlify.app/
+➡️ website: https://chronex-signals.netlify.app/
 
 ---
 
@@ -97,11 +98,40 @@ Instead of relying on conventional indicators, Bitcoin Oracle studies market str
 - Grounds answer in time-windowed evidence from crypto news, exchange notices, and US regulator filings
 - Supports multiple LLMs
 
-➡️ https://github.com/THouwe/IntrinsicTime/
+➡️ website: https://whathappenedcrypto.netlify.app/
+➡️ repo: https://github.com/THouwe/crypto-intel/
 
-Dashboard:
+---
 
-➡️ https://whathappenedcrypto.netlify.app/
+## crypto-intel
+
+A RAG system to explain crypto price moves.
+
+Instead of relying on conventional indicators, Bitcoin Oracle studies market structure through Directional Change events and multiple intrinsic scales.
+
+**Highlights**
+
+- Confirming the move against real price data
+- Grounds answer in time-windowed evidence from crypto news, exchange notices, and US regulator filings
+- Supports multiple LLMs
+
+➡️ website: https://whathappenedcrypto.netlify.app/
+➡️ repo: https://github.com/THouwe/crypto-intel/
+
+---
+
+## olist — "Marketplace Health Analysis"
+
+An end-to-end analyst workflow that turns ~100k orders from the public Olist Brazilian e-commerce export into a business diagnosis across three layers. 
+
+**Highlights** 
+
+- Descriptive: DuckDB warehouse, modelled with dbt, and presented in an interactive Power BI dashboard that closes on a recommendation
+- Explanatory: the two headline claims are stress-tested with mixed-effects models
+- Interactive: the geographic story is published as a shareable-by-URL Mapbox GL JS web map on Netlify.
+
+➡️ website: https://olist-webmap.netlify.app/
+➡️ repo: https://github.com/THouwe/olist
 
 ---
 
@@ -109,7 +139,7 @@ Dashboard:
 
 More about my work, publications and projects.
 
-➡️ https://thomas-houweling.netlify.app/
+➡️ website: https://thomas-houweling.netlify.app/
 
 ---
 

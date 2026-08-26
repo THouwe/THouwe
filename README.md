@@ -2,14 +2,14 @@
 
 ### Data Scientist | Quantitative Developer | Python Engineer | PhD
 
-I design and build **algorithmic trading systems**, **quantitative research infrastructure**, and **data-intensive software**.
+I turn data into decisions — building **machine learning models**, **statistical analyses**, and **data-intensive software**, from research question to production system.
 
 My work sits at the intersection of
 
-- quantitative finance
-- software engineering
-- machine learning
+- data science & machine learning
 - statistical modelling
+- quantitative finance
+- software & data engineering
 - complex systems
 
 with a particular interest in **Intrinsic Time** and event-based market analysis.
@@ -18,18 +18,18 @@ with a particular interest in **Intrinsic Time** and event-based market analysis
 
 ## Research → Engineering → Production
 
-I enjoy taking quantitative ideas all the way from research papers to production software.
+I enjoy taking data and quantitative ideas all the way from exploratory analysis to production software.
 
 Over the past few years I've built
 
-- trading models
-- backtesting engines
-- event-driven market analysis libraries
-- financial data pipelines
-- real-time signal platforms
+- machine learning & classification models
+- statistical & causal analyses (mixed-effects, Monte Carlo, clustering)
+- RAG / LLM-powered systems
+- data pipelines & analytics warehouses (DuckDB, dbt, Power BI)
+- event-driven market analysis libraries & backtesting engines
 - full-stack analytical applications
 
-using primarily **Python**, **R**, **SQL**, and **JavaScript**.
+using primarily **Python**, **SQL**, **R**, and **JavaScript**.
 
 ---
 
@@ -88,15 +88,16 @@ Chronex explores new ways of monitoring market dynamics through event-driven ana
 
 ## crypto-intel
 
-> A RAG system to explain crypto price moves.
+> An end-to-end system that explains crypto price moves — and forecasts their risk.
 
-Instead of relying on conventional indicators, Bitcoin Oracle studies market structure through Directional Change events and multiple intrinsic scales.
+A citation-grounded RAG explainer paired with a volatility-forecasting ML service, stitched so the model's risk regime conditions the cited answer, wrapped in a full MLOps loop.
 
 **Highlights**
 
-- Confirming the move against real price data
-- Grounds answer in time-windowed evidence from crypto news, exchange notices, and US regulator filings
-- Supports multiple LLMs
+- Citation-grounded RAG explainer: Claude API, embeddings, Chroma/pgvector, BM25
+- Volatility-forecasting ML service: scikit-learn, XGBoost/LightGBM, PyTorch
+- Complete MLOps loop: MLflow tracking + registry, FastAPI serving, GitHub Actions CI + retraining, Evidently drift monitoring, DuckDB/BigQuery feature pipeline
+- Deployed live on Netlify/Railway/Supabase with 160+ tests
 
 ➡️ website: https://whathappenedcrypto.netlify.app/
 ➡️ repo: https://github.com/THouwe/crypto-intel/
@@ -107,9 +108,9 @@ Instead of relying on conventional indicators, Bitcoin Oracle studies market str
 
 > A marketplace health analysis.
 
-An end-to-end analyst workflow that turns ~100k orders from the public Olist Brazilian e-commerce export into a business diagnosis across three layers. 
+An end-to-end analyst workflow that turns ~100k orders from the public Olist Brazilian e-commerce export into a business diagnosis across three layers.
 
-**Highlights** 
+**Highlights**
 
 - Descriptive: DuckDB warehouse, modelled with dbt, and presented in an interactive Power BI dashboard that closes on a recommendation
 - Explanatory: the two headline claims are stress-tested with mixed-effects models
@@ -184,23 +185,23 @@ https://github.com/THouwe/dashboard-automation
 # Technical Interests
 
 ```text
-Quantitative Finance
+Machine Learning
+███████████████████████
+
+Statistical Modelling
 ███████████████████████
 
 Python Engineering
 ██████████████████████
 
-Statistical Modelling
+Data Analysis & Visualization
 █████████████████████
 
-Machine Learning
-███████████████████
-
 Time Series Analysis
-██████████████████
+█████████████████████
 
-Market Microstructure
-█████████████████
+Quantitative Finance
+████████████████████
 
 Complex Systems
 ██████████████████
@@ -212,27 +213,23 @@ Complex Systems
 
 ### Languages
 
-Python • SQL • JavaScript • R • MATLAB
+Python • SQL • R • JavaScript • MATLAB
+
+### Data Science & ML
+
+pandas • NumPy • scikit-learn • Statistical Modelling • Time Series • LLMs / RAG • Monte Carlo
+
+### Data & Analytics
+
+DuckDB • dbt • Power BI • Looker Studio • PostgreSQL • ETL Pipelines
 
 ### Engineering
 
-Docker • PostgreSQL • Linux • Git • AWS • REST APIs
+Docker • Linux • Git • AWS • REST APIs
 
 ### Quantitative
 
-Machine Learning
-
-Statistical Modelling
-
-Signal Processing
-
-Optimization
-
-Backtesting
-
-Algorithmic Trading
-
-Financial Time Series
+Signal Processing • Optimization • Backtesting • Algorithmic Trading • Financial Time Series
 
 ---
 
@@ -246,11 +243,11 @@ Financial Time Series
 
 # Current Focus
 
+- Applied machine learning & LLM/RAG systems
+- Statistical & causal modelling
 - Intrinsic Time research
-- Quantitative trading infrastructure
 - Python package development
-- Financial data engineering
-- Market intelligence platforms
+- Data engineering & market intelligence platforms
 
 ---
 

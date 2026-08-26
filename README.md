@@ -1,6 +1,6 @@
 # Thomas Houweling
 
-### Quantitative Developer | Python Engineer | PhD
+### Data Scientist | Quantitative Developer | Python Engineer | PhD
 
 I design and build **algorithmic trading systems**, **quantitative research infrastructure**, and **data-intensive software**.
 

@@ -35,6 +35,24 @@ using primarily **Python**, **SQL**, **R**, and **JavaScript**.
 
 # Selected Work
 
+## EEG Sleep Stager
+
+> Automatic sleep staging from a single EEG channel.
+
+A full pipeline that classifies 30-second epochs of polysomnography into the five AASM sleep stages (Wake, N1, N2, N3, REM), from Spark-based feature extraction all the way to a live inference demo.
+
+**Highlights**
+
+- Subject-wise (subject-disjoint) train/val/test splits to prevent physiological data leakage and keep metrics honest
+- CNN on raw single-channel EEG reaches 0.776 accuracy / 0.714 macro-F1 on held-out subjects, beating a hand-crafted-features baseline
+- Distributed ETL in PySpark, MNE-Python signal I/O, TensorFlow/Keras training, scikit-learn GradientBoosting baseline
+- TensorFlow-free serving via ONNX Runtime — runs in ~512 MB, Dockerized on Render
+
+➡️ web demo: https://eeg-sleep-stager.onrender.com/
+➡️ repo: https://github.com/THouwe/eeg-sleep-stager
+
+---
+
 ## IntrinsicTime
 
 **Open-source Python package**
